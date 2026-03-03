@@ -40,3 +40,5 @@ PokeAPI から取得したポケモン情報を、カード形式で一覧表示
 ```bash
 npm install
 npm start
+
+- デモURL：未デプロイ（今後Vercelで公開予定）
